@@ -210,22 +210,8 @@ superpower: "Turning coffee into code since 2020 ☕️→💻"
 ---
 
 ## 🐍 Contribution Snake
-## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/logan-tempest/logan-tempest/output/snake.svg" alt="Snake animation" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-  
-  ### 📈 Commit Frequency
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=logan-tempest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Weekly%20Development%20Breakdown" width="500" />
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logan-tempest/logan-tempest/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/logan-tempest/logan-tempest/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
