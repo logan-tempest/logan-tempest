@@ -4,13 +4,13 @@
 
 <br>
 
-<a href="https://github.com/logan-tempest">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Civil+Engineer+by+degree%2C+Builder+by+obsession;Full+Stack+Developer+%7C+UI%2FUX+Designer;AI+Enthusiast+%7C+Startup+Builder;Student+Lead+II+%40+IEDC+SNMIMT;Building+Zalont%2C+one+commit+at+a+time." alt="Typing SVG" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+<a href="https://github.com/logan-tempest">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Civil+Engineer+by+degree%2C+Builder+by+obsession;Full+Stack+Developer+%7C+UI%2FUX+Designer;AI+Enthusiast+%7C+Startup+Builder;Student+Lead+II+%40+IEDC+SNMIMT;Building+Zalont%2C+one+commit+at+a+time." alt="Typing SVG" />
+</a>
 
 </div>
 
