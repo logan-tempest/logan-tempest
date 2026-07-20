@@ -220,34 +220,67 @@ superpower: "Turning coffee into code since 2020 ☕️→💻"
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=logan-tempest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Weekly%20Development%20Breakdown" width="500" />
 </div>
 
-> **Want the Snake Animation?** 
-> 
-> To enable the contribution snake, you'll need to:
-> 1. Create `.github/workflows/snake.yml` in your profile repo
-> 2. Add this action code:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@master
->         with:
->           github_user_name: logan-tempest
->           svg_out_path: dist/github-snake.svg
->       - uses: crazy-max/ghaction-github-pages@v2
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logan-tempest/logan-tempest/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/logan-tempest/logan-tempest/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<details>
+<summary><b>⚙️ Workflow to generate this snake (fixed and ready to use)</b></summary>
+<br>
+
+Save this as `.github/workflows/snake.yml` in your `logan-tempest/logan-tempest` profile repo. It generates both light and dark SVGs and pushes them to a dedicated `output` branch — which is exactly what the `<picture>` tag above points to.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # allows manual trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: logan-tempest
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Notes on the fix:**
+- Uses `Platane/snk@v3` (the older `@master` tag is unstable and occasionally breaks).
+- Generates **both** the light and dark SVGs in one step via the `outputs` list, instead of two separate jobs.
+- `permissions: contents: write` is required — without it, the push step silently fails on newer GitHub Actions defaults.
+- Pushes both files to the `output` branch, matching the `<picture>` `srcset`/`src` paths used above exactly.
+
+</details>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
