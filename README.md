@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=LOGAN%20TEMPEST&fontSize=55&fontColor=00d9ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=LOGAN%20TEMPEST&fontSize=55&fontColor=00D9FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 </div>
 
@@ -33,14 +33,14 @@ Right now, I split my attention between three worlds that don't usually meet: **
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/coding-cat.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%">
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Current Focus
@@ -72,7 +72,7 @@ Right now, I split my attention between three worlds that don't usually meet: **
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Tech Stack
@@ -104,23 +104,23 @@ Right now, I split my attention between three worlds that don't usually meet: **
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=logan-tempest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logan-tempest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=logan-tempest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logan-tempest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="42%" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=logan-tempest&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=logan-tempest&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logan-tempest&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=logan-tempest&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="90%" />
 
 </div>
 
@@ -128,12 +128,12 @@ Right now, I split my attention between three worlds that don't usually meet: **
 <summary><b>🏆 Trophy Case</b></summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=logan-tempest&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&bg-color=0d1117" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=logan-tempest&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&bg-color=0D1117" width="95%" />
 </div>
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Contribution Snake
@@ -147,69 +147,120 @@ Right now, I split my attention between three worlds that don't usually meet: **
 
 </div>
 
+<details>
+<summary><b>⚙️ Workflow to generate this snake (fixed and ready to use)</b></summary>
+<br>
+
+Save this as `.github/workflows/snake.yml` in your `logan-tempest/logan-tempest` profile repo. It generates both light and dark SVGs and pushes them to a dedicated `output` branch — which is exactly what the `<picture>` tag above points to.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # allows manual trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: logan-tempest
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Notes on the fix:**
+- Uses `Platane/snk@v3` (the older `@master` tag is unstable and occasionally breaks).
+- Generates **both** the light and dark SVGs in one step via the `outputs` list, instead of two separate jobs.
+- `permissions: contents: write` is required — without it, the push step silently fails on newer GitHub Actions defaults.
+- Pushes both files to the `output` branch, matching the `<picture>` `srcset`/`src` paths used above exactly.
+
+</details>
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Featured Projects
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">🔹 Project One</h3>
-<p align="center"><i>One-line description — what it does and why it exists.</i></p>
-<p align="center">
-<code>Tech&nbsp;Stack</code> · <code>Placeholder</code>
+<td width="50%">
+<h3 align="center">🤖 AI Project [Placeholder]</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" alt="AI Project"/>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Stack-Placeholder-informational?style=flat&logo=javascript&color=00D9FF"/>
 </p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-121212?style=for-the-badge&logo=github&logoColor=00d9ff"/></a>
-</p>
+<p><strong>One-line description of what this project actually does.</strong></p>
+</div>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">🔹 Project Two</h3>
-<p align="center"><i>One-line description — what it does and why it exists.</i></p>
-<p align="center">
-<code>Tech&nbsp;Stack</code> · <code>Placeholder</code>
+<td width="50%">
+<h3 align="center">🌊 Disaster Management Platform [Placeholder]</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" alt="Platform Project"/>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Stack-Placeholder-informational?style=flat&logo=next.js&color=00D9FF"/>
 </p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-121212?style=for-the-badge&logo=github&logoColor=00d9ff"/></a>
-</p>
+<p><strong>One-line description of what this project actually does.</strong></p>
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">🔹 Project Three</h3>
-<p align="center"><i>One-line description — what it does and why it exists.</i></p>
-<p align="center">
-<code>Tech&nbsp;Stack</code> · <code>Placeholder</code>
+<td width="50%">
+<h3 align="center">🛠️ Developer Tool [Placeholder]</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100%" alt="Tool Project"/>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Stack-Placeholder-informational?style=flat&logo=python&color=00D9FF"/>
 </p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-121212?style=for-the-badge&logo=github&logoColor=00d9ff"/></a>
-</p>
+<p><strong>One-line description of what this project actually does.</strong></p>
+</div>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">🔹 Zalont — Startup Project</h3>
-<p align="center"><i>One-line description of what Zalont is building.</i></p>
-<p align="center">
-<code>Tech&nbsp;Stack</code> · <code>Placeholder</code>
+<td width="50%">
+<h3 align="center">🚀 Zalont — Startup Project [Placeholder]</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" alt="Zalont Project"/>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Stack-Placeholder-informational?style=flat&logo=vercel&logoColor=white&color=00D9FF"/>
 </p>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Website-00d9ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Source-121212?style=for-the-badge&logo=github&logoColor=00d9ff"/></a>
-</p>
+<p><strong>One-line description of what Zalont is building.</strong></p>
+</div>
 </td>
 </tr>
 </table>
 
-<div align="center">
-<sub>↳ Replace the placeholders above with real project names, descriptions, and links as they ship.</sub>
+<sub>↳ Replace each card's title, gif alt text, stack badge, and description once the repo is real and public. Nothing here links anywhere yet — that's intentional.</sub>
+
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Achievements
@@ -223,7 +274,7 @@ Right now, I split my attention between three worlds that don't usually meet: **
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Developer Philosophy
@@ -237,7 +288,7 @@ I'd rather ship something small that works than something large that impresses n
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Fun Code Snippet
@@ -256,7 +307,7 @@ console.log(loganTempest.currentlyThinking());
 ```
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## ⌁ Connect With Me
@@ -264,22 +315,22 @@ console.log(loganTempest.currentlyThinking());
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00d9ff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00D9FF"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=00d9ff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
 
 <sub>↳ Swap the `#` links above with your real profile URLs.</sub>
 
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/optimized/blue-line.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=logan-tempest&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=logan-tempest&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
